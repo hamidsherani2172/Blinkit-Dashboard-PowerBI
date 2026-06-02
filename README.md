@@ -1,18 +1,22 @@
+Here you go:
+
+---
+
 ```markdown
-Blinkit Grocery Sales Dashboard
+# Blinkit Grocery Sales Dashboard
 
 A Power BI dashboard analyzing sales performance, outlet characteristics,
 and product metrics for Blinkit — India's Last Minute App.
 
 ---
 
-Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard](background%20kpi.png)
 
 ---
 
-Project Overview
+## Project Overview
 
 This dashboard provides a comprehensive analysis of Blinkit's grocery outlet
 data, helping identify sales trends, top-performing item types, and outlet
@@ -20,7 +24,7 @@ performance across different tiers and locations.
 
 ---
 
-Key Metrics
+## Key Metrics
 
 | Metric | Value |
 |---|---|
@@ -31,7 +35,7 @@ Key Metrics
 
 ---
 
-Key Insights
+## Key Insights
 
 - **Top Item Types:** Fruits & Vegetables and Snack Foods lead with $0.18M each
 - **Fat Content:** Regular fat items ($776K) outsell Low Fat items ($425K)
@@ -42,7 +46,7 @@ Key Insights
 
 ---
 
-Files Included
+## Files Included
 
 | File | Description |
 |---|---|
@@ -56,16 +60,20 @@ Files Included
 
 ---
 
-Tools Used
+## Tools Used
 
 - **Power BI Desktop** — Dashboard design & DAX measures
 - **Microsoft Excel** — Data source
 
 ---
 
-Data Source
+## Data Source
 
 The dataset contains grocery outlet information including outlet size,
 location tier, item types, fat content categories, and sales figures
 spanning from 2011 to 2022.
 ```
+
+---
+
+Paste this into GitHub and the headings will render bold automatically. Ready to move on to the next project?
