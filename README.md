@@ -69,7 +69,3 @@ The dataset contains grocery outlet information including outlet size,
 location tier, item types, fat content categories, and sales figures
 spanning from 2011 to 2022.
 ```
-
----
-
-Paste this into GitHub and the headings will render bold automatically. Ready to move on to the next project?
