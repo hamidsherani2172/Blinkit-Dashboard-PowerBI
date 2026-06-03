@@ -10,7 +10,7 @@ The goal of this project is to transform raw grocery sales data into meaningful 
 
 ## Dashboard Preview
 
-![Dashboard Screenshot]images/Screenshot 2026-06-03 060305.png
+![Dashboard Screenshot](images/Screenshot%202026-06-03%20060305.png)
 
 ---
 
