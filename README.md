@@ -166,6 +166,3 @@ Blinkit-Sales-Dashboard/
 **Hamid Nawaz**
 
 Computer Science Student | Data Analytics Enthusiast | Power BI Developer
-
-in/hamid-nawaz-
-https://www.fiverr.com/s/e6D4d4E
