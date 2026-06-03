@@ -40,7 +40,8 @@ The dataset contains grocery sales records with attributes such as:
 * Item Visibility
 * Item Weight
 * Sales
-
+## Dataset Preview
+![Dataset Screenshot](images/Screenshot 2026-06-03 060150.png)
 ---
 
 ## Data Preparation
