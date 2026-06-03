@@ -41,8 +41,8 @@ The dataset contains grocery sales records with attributes such as:
 * Item Weight
 * Sales
 ## Dataset Preview
-![Dataset Screenshot](images/Screenshot 2026-06-03 060150.png)
----
+![Dataset Screenshot](dataset.png)
+
 
 ## Data Preparation
 
